@@ -1,0 +1,1 @@
+Proyecto de un Juego de Ajedrez en el que se debe colocar 8 reinas sin que se maten.
