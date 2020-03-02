@@ -39,18 +39,3 @@ class Node:
     
     def insert_left(self,left_node):
         self.left = Node(left_node)
-
-    
-
-
-def __main__():
-    node1 = Node(True)
-    nodexs = Node(1)
-    node3 = Node("Julian")
-    print ("El valor es: {}".format(node1.get_status()))
-    print ("El valor es: {}".format(nodexs.get_status()))
-    print ("El valor es: {}".format(node3.get_status()))
-    
-
-if __name__ == "__main__":
-    __main__()
